@@ -6,7 +6,7 @@ Eu sou Joel, um Analista de Dados /Data Science, e gostaria de compartilhar com 
 
 O Ponto de Partida: Os Dados e a Visualização Inicial
 Nosso HRBP começou essa jornada por meio da análise dos dados e compartilhou comigo uma visualização inicial, um gráfico de bolhas retirado do livro "Storytelling with Data: Let's Practice!" de autoria da renomada autora Cole Nussbaumer Knaflic. Esse gráfico ofereceu um contexto valioso para entender as principais razões pelas quais nossos funcionários estavam deixando a empresa, bem como o impacto de cada uma dessas razões.
-![Imgur](https://i.imgur.com/vlCBK0t.png)
+![Imgur](https://i.imgur.com/uxiMe1R.png)
 Aqui estão os dados subjacentes ao gráfico de bolhas:
 
 
