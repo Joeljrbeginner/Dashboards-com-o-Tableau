@@ -10,16 +10,6 @@ Nosso HRBP começou essa jornada por meio da análise dos dados e compartilhou c
 Aqui estão os dados subjacentes ao gráfico de bolhas:
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 50%;
-            margin: 0 auto;
-        }
-
         th, td {
             border: 1px solid #ddd;
             padding: 8px;
