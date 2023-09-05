@@ -1,11 +1,13 @@
-# <font color = blue align = 'center'> **Relatório de Progresso Diário**
-## <font color = blue align = 'center'> **Automação de Produtividade**
+# <font color = blue align = 'center'>
+## <font color = blue align = 'center'>
 
-### <font color = darkblue > Apresentação 
+### <font color = darkblue >
 
-# Storytelling: Compreendendo e Abordando o Atrito de Funcionários no Departamento de Marketing
+# Storytelling: 
 
-# Olá,
+## Compreendendo e Abordando o Atrito de Funcionários no Departamento de Marketing
+
+## Olá,
 
 * Eu sou Joel, um Analista de Dados /Data Science, e gostaria de compartilhar com você a jornada que empreendemos para entender e abordar o desafio do atrito de funcionários em nossa organização de marketing. Sob a orientação de nosso Chief Marketing Officer (CMO), fui incumbido de trabalhar em conjunto com nosso Parceiro de Negócios de Recursos Humanos (HRBP) para investigar as razões subjacentes ao alto índice de saída de colaboradores e apresentar soluções para resolver esse problema crítico.
 
@@ -13,7 +15,7 @@
 Nosso HRBP começou essa jornada por meio da análise dos dados e compartilhou comigo uma visualização inicial, um gráfico de bolhas retirado do livro "Storytelling with Data: Let's Practice!" de autoria da renomada autora Cole Nussbaumer Knaflic. Esse gráfico ofereceu um contexto valioso para entender as principais razões pelas quais nossos funcionários estavam deixando a empresa, bem como o impacto de cada uma dessas razões.
 
 ![Imgur](https://i.imgur.com/uxiMe1R.png)
-# Aqui estão os dados subjacentes ao gráfico de bolhas:
+## Aqui estão os dados subjacentes ao gráfico de bolhas:
 
 </head>
 <body>
@@ -119,26 +121,26 @@ Com base em nossas descobertas, desenvolvemos recomendações iniciais para abor
 
 * Juntos, acreditamos que podemos abordar eficazmente esses desafios e criar um ambiente de trabalho mais gratificante e produtivo para todos os membros de nossa equipe de marketing.
 
-# Geração de Relatório:
+## Geração de Relatório:
 
 * Ao final da análise, o projeto apresenta um relatório completo contendo os resultados, gráficos e insights gerados durante a análise dos dados.
 
-# Exportação de Dados:
+## Exportação de Dados:
 
 * Os dados coletados são armazenados em um arquivo CSV para possibilitar análises futuras e comparações.
 
-# Contribuição
+## Contribuição
 * Contribuições são bem-vindas! Se você encontrar algum problema, tiver sugestões de melhorias ou novas funcionalidades.
 
   * ***As ferramentas utilizadas neste projeto são:***
 
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Lubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# Licença
+## Licença
 
 * Este projeto está licenciado sob a MIT License.
 
-# Contato
+## Contato
 
 * Para mais informações ou dúvidas sobre o projeto, entre em contato:
 
