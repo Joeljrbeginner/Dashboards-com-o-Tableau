@@ -9,17 +9,6 @@ Nosso HRBP começou essa jornada por meio da análise dos dados e compartilhou c
 ![Imgur](https://i.imgur.com/uxiMe1R.png)
 Aqui estão os dados subjacentes ao gráfico de bolhas:
 
-
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: center;
-        }
-
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
 </head>
 <body>
     <h2>Razões para Saída</h2>
