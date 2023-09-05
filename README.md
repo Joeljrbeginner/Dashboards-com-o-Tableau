@@ -1,3 +1,8 @@
+# <font color = blue align = 'center'> **Relatório de Progresso Diário**
+## <font color = blue align = 'center'> **Automação de Produtividade**
+
+### <font color = darkblue > Apresentação 
+
 # Storytelling: Compreendendo e Abordando o Atrito de Funcionários no Departamento de Marketing
 
 # Olá,
@@ -112,6 +117,15 @@ Avaliação das Funções: Realizar uma revisão abrangente das funções e resp
 Estamos atualmente trabalhando na criação de dashboards interativos com o Tableau para visualizar essas recomendações e seus impactos potenciais. Essas visualizações ajudarão a orientar nossos esforços futuros e a monitorar o progresso em direção à redução do atrito de funcionários.
 
 Juntos, acreditamos que podemos abordar eficazmente esses desafios e criar um ambiente de trabalho mais gratificante e produtivo para todos os membros de nossa equipe de marketing.
+* ***As ferramentas utilizadas neste projeto são:***
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+* ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+*  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Lubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 Agradecemos pela sua atenção e continuaremos atualizando você sobre nosso progresso.
 
